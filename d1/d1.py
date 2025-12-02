@@ -1,6 +1,6 @@
 import re
 
-input = open("d1/d1.txt","r")
+input = open("inputs/d1.txt","r")
 
 dial = 50
 zero_count = 0

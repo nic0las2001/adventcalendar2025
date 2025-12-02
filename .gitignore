@@ -1,0 +1,5 @@
+# remove inputs from repo
+inputs/
+
+# if nested inputs files
+**/inputs/
